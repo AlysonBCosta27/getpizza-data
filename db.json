@@ -20,6 +20,13 @@
             "desc": "Mussarela e antepasto de berinjela",
             "img": "https://bit.ly/36x7YZP",
             "price": 25.99
+        },
+        {
+            "id":4,
+            "name": "Abobrinha",
+            "desc": "Mussarela,",
+            "img": "https://bit.ly/2UOjzhw",
+            "price": 21.99
         }
     ]
-}   
+}
